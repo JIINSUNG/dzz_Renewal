@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "dzzregular";
+  src: url("https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff")
+    format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "dzzbold";
+  font-style: normal;
+  font-weight: 500;
+  src: url("@/fonts/Pretendard-Bold") format("otf");
+}
+
+@font-face {
+  font-family: "dzzsemibold";
+  font-style: normal;
+  font-weight: 300;
+  src: url("@/fonts/Pretendard-SemiBold") format("otf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  font-family: "dzzregular";
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
