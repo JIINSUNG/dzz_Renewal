@@ -7,7 +7,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App flex flex-1 flex-col min-w-screen min-h-screen">
       <Header />
       <Router>
         <Routes>
