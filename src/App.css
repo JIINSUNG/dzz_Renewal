@@ -29,6 +29,7 @@
   padding: 0;
   border: 0;
   box-sizing: border-box;
+  color: "#333333";
 }
 
 a {
@@ -50,4 +51,171 @@ body {
 img {
   max-width: 100%;
   height: auto;
+}
+
+h1 {
+  font-size: 48px;
+  line-height: 110%;
+}
+
+h2 {
+  font-size: 40px;
+  line-height: 110%;
+}
+
+h3 {
+  line-height: 110%;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 110%;
+}
+
+h4 {
+  font-size: 24px;
+}
+
+h5 {
+  font-size: 20px;
+}
+
+h6 {
+  font-size: 16px;
+}
+
+.xlarge-bold {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 140%;
+  letter-spacing: 0.2px;
+}
+
+.xlarge-semibold {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 0.2px;
+}
+
+.xlarge-medium {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 140%;
+  letter-spacing: 0.2px;
+}
+
+.xlarge-regular {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: 0.2px;
+}
+
+.large-bold {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 140%;
+  letter-spacing: 0.2px;
+}
+
+.large-semibold {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 0.2px;
+}
+
+.large-medium {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 140%;
+  letter-spacing: 0.2px;
+}
+
+.large-regular {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: 0.2px;
+}
+
+.medium-bold {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 140%;
+  letter-spacing: 0.2px;
+}
+
+.medium-semibold {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 0.2px;
+}
+
+.medium-medium {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 140%;
+  letter-spacing: 0.2px;
+}
+
+.medium-regular {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: 0.2px;
+}
+
+.small-bold {
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.small-semibold {
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 0.2px;
+}
+
+.small-medium {
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 140%;
+  letter-spacing: 0.2px;
+}
+
+.small-regular {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: 0.2px;
+}
+
+.xsmall-bold {
+  font-size: 10px;
+  font-weight: 700;
+  line-height: 140%;
+  letter-spacing: 0.2px;
+}
+
+.xsmall-semibold {
+  font-size: 10px;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 0.2px;
+}
+
+.xsmall-medium {
+  font-size: 10px;
+  font-weight: 500;
+  line-height: 140%;
+  letter-spacing: 0.2px;
+}
+
+.xsmall-regular {
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: 0.2px;
 }
